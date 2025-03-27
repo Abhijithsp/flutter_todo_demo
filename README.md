@@ -21,7 +21,9 @@ A minimal To-Do application built using Flutter, implementing Cubit for state ma
 
 Features
 ✅ Add new tasks
+✅ Update tasks
 ✅ Delete tasks
+
 ✅ Persist tasks using SQLite
 
 # Tech Stack
